@@ -5,10 +5,10 @@ f2k.js 是一个基于 Web Components API 的组件库。
 
 ---
 ## feature
-Component-Based, Low Availability, Low Reliability, Low Reusability, Has-to-Be-Called-Framework. 
+Component-Based, Low Availability, Low Reliability, Low Reusability, Pass-Courses-Oriented, Has-to-Be-Called-Framework. 
 
 ## 特点
-组件化，低可用性，低可靠性，低复用性，不得不被称作框架
+组件化，低可用性，低可靠性，低复用性，面向课程通过，不得不被称作框架的。
 
 ---
 
